@@ -1,0 +1,3 @@
+page\QAPage.class
+steps\Steps.class
+runners\RunCucumberTests.class
